@@ -11,3 +11,5 @@ public class TimeIt {
 		}
 	}
 }
+
+// Copyright MilanLukic, 2019
